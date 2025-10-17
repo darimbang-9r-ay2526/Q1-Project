@@ -1,0 +1,20 @@
+body {
+		background-color: #F8C8DC;
+	color: blanchedalmond;
+	
+	  	
+ }
+
+.container {
+	width: 80%;
+		padding: 12px;
+		diplay: flex;
+	margin: auto;
+}
+
+.Finals {
+	  	border: 8px solid blanchedalmond;
+     padding: 8px;
+     	outline-offset: 2px;
+} 
+
